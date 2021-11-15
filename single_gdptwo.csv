@@ -1,0 +1,153 @@
+﻿local_authority_area,tenyear_ratio_change,DGP_perhead,region
+Derby,0.0003321,31322,East Midlands
+Derbyshire,0.0001772,25425,East Midlands
+Leicester,0.0002738,26815,East Midlands
+Leicestershire,0.0002563,28046,East Midlands
+Lincolnshire,0.0001028,23313,East Midlands
+Northamptonshire,0.0001994,28814,East Midlands
+Nottingham,0.0000889,33773,East Midlands
+Nottinghamshire,0.0000971,22024,East Midlands
+Rutland,-0.0002916,22232,East Midlands
+Bedford,0.0001869,27735,East of England
+Cambridgeshire,0.0000057,33608,East of England
+Central Bedfordshire,0.0002396,25427,East of England
+Essex,0.0001201,26935,East of England
+Hertfordshire,0.0001257,37634,East of England
+Luton,0.0001835,32477,East of England
+Norfolk,0.0002360,21833,East of England
+Peterborough,0.0001517,37727,East of England
+Southend on Sea,0.0001605,19772,East of England
+Suffolk,0.0000616,27937,East of England
+Thurrock,0.0001385,28283,East of England
+Barking and Dagenham,0.0007634,19544,London
+Barnet,0.0005884,26051,London
+Bexley,0.0005845,28039,London
+Brent,0.0004688,29579,London
+Bromley,0.0008058,28444,London
+Camden,0.0002792,135520,London
+City of London,0.0000740,7881451,London
+Croydon,0.0006889,27487,London
+Ealing,0.0007517,31030,London
+Enfield,0.0006701,26434,London
+Greenwich,0.0006105,22518,London
+Hackney,0.0010145,31737,London
+Hammersmith and Fulham,0.0003100,62478,London
+Haringey,0.0006594,18155,London
+Harrow,0.0007348,24189,London
+Havering,0.0004524,25802,London
+Hillingdon,0.0004555,53313,London
+Hounslow,0.0004708,68136,London
+Islington,0.0007080,82492,London
+Kensington and Chelsea,0.0008165,71268,London
+Kingston upon Thames,0.0007703,33383,London
+Lambeth,0.0007637,41927,London
+Lewisham,0.0006734,15167,London
+Merton,0.0006793,30989,London
+Newham,0.0006653,21728,London
+Redbridge,0.0006534,19717,London
+Richmond upon Thames,0.0007630,41752,London
+Southwark,0.0008139,66912,London
+Sutton,0.0006077,24294,London
+Tower Hamlets,0.0007388,110503,London
+Waltham Forest,0.0005516,18211,London
+Wandsworth,0.0005016,27197,London
+Westminster,0.0006937,277831,London
+Darlington,0.0000902,27227,North East
+Durham,0.0004049,19533,North East
+Gateshead,0.0006891,23700,North East
+Hartlepool,0.0002498,17982,North East
+Middlesbrough,0.0002452,24189,North East
+Newcastle upon Tyne,0.0003424,33827,North East
+North Tyneside,0.0003878,24601,North East
+Northumberland,0.0004260,19052,North East
+Redcar and Cleveland,0.0002141,15943,North East
+South Tyneside,0.0003423,15538,North East
+Stockton on Tees,0.0003435,27640,North East
+Sunderland,0.0003702,28744,North East
+Blackburn with Darwen,0.0008439,23874,North West
+Blackpool,0.0001044,22358,North West
+Bolton,0.0005030,23486,North West
+Bury,0.0004107,20824,North West
+Cheshire East,0.0004957,40060,North West
+Cheshire West and Chester,0.0005640,34843,North West
+Cumbria,0.0002421,27110,North West
+Halton,0.0002371,36023,North West
+Knowsley,0.0005140,27174,North West
+Lancashire,0.0003917,25599,North West
+Liverpool,0.0007009,29215,North West
+Manchester,0.0003634,45759,North West
+Oldham,0.0006609,19790,North West
+Rochdale,0.0007338,19497,North West
+Salford,0.0003503,33328,North West
+Sefton,0.0004415,18052,North West
+St Helens,0.0001816,18420,North West
+Stockport,0.0004742,26657,North West
+Tameside,0.0006348,18422,North West
+Trafford,0.0003744,42636,North West
+Warrington,0.0003531,40105,North West
+Wigan,0.0005467,18802,North West
+Wirral,0.0004875,18497,North West
+Bracknell Forest,0.0005462,46706,South East
+Brighton and Hove,0.0000136,32231,South East
+Buckinghamshire,0.0002821,32296,South East
+East Sussex,0.0002264,19759,South East
+Hampshire,0.0001459,34575,South East
+Isle of Wight,0.0004687,21573,South East
+Kent,0.0001250,26939,South East
+Medway,0.0001582,23236,South East
+Milton Keynes,-0.0001374,56042,South East
+Oxfordshire,0.0003145,35375,South East
+Portsmouth,0.0002402,30872,South East
+Reading,0.0001036,56482,South East
+Slough,0.0004011,58427,South East
+Southampton,0.0000317,34491,South East
+Surrey,0.0000184,39998,South East
+West Berkshire,0.0000827,52684,South East
+West Sussex,0.0000783,62773,South East
+Windsor and Maidenhead,0.0002643,55831,South East
+Wokingham,0.0002738,45253,South East
+Bath and North East Somerset,0.0000563,25133,South West
+Bournemouth,0.0000311,29192,South West
+Bristol,0.0003154,35163,South West
+Cornwall,0.0003091,22637,South West
+Devon,0.0001673,24494,South West
+Dorset,0.0002806,23424,South West
+Gloucestershire,0.0002575,31870,South West
+Isles of Scilly,-0.0006334,37421,South West
+North Somerset,0.0001015,24609,South West
+Plymouth,0.0001354,24019,South West
+Poole,0.0001983,29192,South West
+Somerset,0.0001852,24581,South West
+South Gloucestershire,0.0001848,45988,South West
+Swindon,0.0001758,45759,South West
+Torbay,-0.0000964,17093,South West
+Wiltshire,-0.0000982,26113,South West
+Birmingham,0.0004895,26349,West Midlands
+Coventry,0.0004273,29681,West Midlands
+Dudley,0.0005458,19452,West Midlands
+Herefordshire,0.0001918,23320,West Midlands
+Sandwell,0.0003124,23262,West Midlands
+Shropshire,0.0002520,22359,West Midlands
+Solihull,0.0000936,50339,West Midlands
+Staffordshire,0.0002176,24217,West Midlands
+Stoke on Trent,0.0000264,26237,West Midlands
+Telford and Wrekin,0.0001094,28391,West Midlands
+Walsall,0.0004126,19454,West Midlands
+Warwickshire,0.0001426,38805,West Midlands
+Wolverhampton,0.0005298,21985,West Midlands
+Worcestershire,0.0002219,27464,West Midlands
+Barnsley,0.0004559,18769,Yorkshire and the Humber
+Bradford,0.0004523,21031,Yorkshire and the Humber
+Calderdale,0.0003098,22091,Yorkshire and the Humber
+Doncaster,0.0003785,21983,Yorkshire and the Humber
+East Riding of Yorkshire,0.0002184,23840,Yorkshire and the Humber
+Kingston upon Hull,0.0003130,26303,Yorkshire and the Humber
+Kirklees,0.0004587,20281,Yorkshire and the Humber
+Leeds,0.0004489,36589,Yorkshire and the Humber
+North East Lincolnshire,0.0002193,22991,Yorkshire and the Humber
+North Lincolnshire,0.0002797,29561,Yorkshire and the Humber
+North Yorkshire,0.0003130,28651,Yorkshire and the Humber
+Rotherham,0.0001579,21303,Yorkshire and the Humber
+Sheffield,0.0004374,24459,Yorkshire and the Humber
+Wakefield,0.0004481,25705,Yorkshire and the Humber
+York,0.0007053,32704,Yorkshire and the Humber
